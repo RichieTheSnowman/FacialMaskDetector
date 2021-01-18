@@ -1,5 +1,3 @@
-# python ImageMaskDetector.py --image examplePics/example1.png
-
 # import packages
 from tensorflow.keras.applications.resnet50 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
